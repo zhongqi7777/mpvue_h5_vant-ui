@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## Build Setup
@@ -39,3 +40,7 @@ npm run build --report
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+# mpvue_h5_vant-ui
+mpvue接入vantui框架同时开发h5及小程序
+>>>>>>> 243d726a76910299adaff4c89ee5b306da828181
