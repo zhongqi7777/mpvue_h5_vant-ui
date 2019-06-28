@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 ## Build Setup
 
 ``` bash
@@ -43,4 +40,3 @@ npm run build --report
 =======
 # mpvue_h5_vant-ui
 mpvue接入vantui框架同时开发h5及小程序
->>>>>>> 243d726a76910299adaff4c89ee5b306da828181
