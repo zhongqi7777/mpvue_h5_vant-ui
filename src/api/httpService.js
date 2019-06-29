@@ -3,7 +3,8 @@ import '../utils/preview'
 export default {
   //ajax请求
   async httpRequest(option = {}) {
-    option.url = option.host + option.url;
+    // option.url = option.host + option.url;
+    option.url = config.host + option.url;
     if (option.methods == 'GET' || option.methods == 'get') {
       return await axios.get(
         option.url, {

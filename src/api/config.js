@@ -1,3 +1,3 @@
 export default {
-    host : 'https://www.ziroom.com'
+    host : 'https://www.imovietrailer.com'
 }
